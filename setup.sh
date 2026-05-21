@@ -17,7 +17,7 @@ pip install --upgrade pip
 # 4. Download your custom requirements list from GitHub and install it
 echo "📦 Downloading and installing Python packages..."
 # REPLACE THE URL BELOW WITH YOUR ACTUAL RAW GITHUB LINK TO requirements.txt
-curl -sL https://raw.githubusercontent.com/YOUR_GITHUB/server-setup/main/requirements.txt -o requirements.txt
+curl -sL https://raw.githubusercontent.com/akshatgupta-dev/server-setup/refs/heads/main/requirements.txt -o requirements.txt
 
 pip install -r requirements.txt
 
