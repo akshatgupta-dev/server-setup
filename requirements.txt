@@ -1,0 +1,42 @@
+# --- AI & Deep Learning Core ---
+torch
+torchvision
+torchaudio
+accelerate
+transformers
+huggingface-hub
+bitsandbytes
+peft
+loralib
+
+# --- LLMs & Audio ---
+openai
+ollama
+openai-whisper
+edge-tts
+
+# --- Vision & 3D Processing ---
+opencv-python-headless
+ultralytics
+ifcopenshell
+trimesh
+
+# --- Data Science & Math ---
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+networkx
+
+# --- High-Performance API ---
+fastapi
+uvicorn
+pydantic
+requests
+
+# --- Development & Notebooks ---
+jupyterlab
+python-dotenv
+tqdm
+rich
